@@ -4,5 +4,5 @@
   <h1>Cool Blocks</a></h1>
   <p>Was bored during class, made a website.</p>
 
-[Look at cool blocks here!](https://cool-blocks.ml)
+[Look at cool blocks here!](https://cqb13.github.io/Cool-Blocks/)
 </div>

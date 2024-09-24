@@ -10,7 +10,7 @@ body {
 }
 
 body {
-  background: linear-gradient(180deg, #f9f9f9, #6992c9);
+  background: linear-gradient(180deg, #f9f9f9, #ac5ed0);
 }
 
 .menu {
@@ -25,12 +25,15 @@ body {
   -webkit-backdrop-filter: blur(0.8px);
   border: 1px solid #f5f7fa;
   z-index: 1;
+  font-family: sans-serif;
+
 }
 
 h1 {
   text-align: center;
   margin: 0 auto;
   font-size: 50px;
+  color: blueviolet;
 }
 
 .menu button {
